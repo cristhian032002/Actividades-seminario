@@ -1,0 +1,565 @@
+car_model,price,year_model,kms,color,fueltype
+Renault Duster 1.6 Expression Mecánica,$49.900.000,2017,179.442,Blanco,Gasolina y gas
+Renault Duster 1.3 iconic Mt 4x4,$88.000.000,2023,30.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$48.000.000,2017,150.000,Blanco,Gasolina
+Renault Duster Tripadvisor,$64.000.000,2018,37.353,Plateado,Gasolina
+Renault Duster 1.3 Intens 4x4,$75.900.000,2022,47.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$45.000.000,2015,111.352,Negro,Gasolina
+Renault Duster Oroch 1.3  Cargo,$94.000.000,2023,1.900,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$65.000.000,2019,66.000,Gris,Gasolina
+Renault Duster 1.6 Tripadvisor Intens 4X2,$57.900.000,2019,43.800,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$60.000.000,2020,40.000,Gris,Gasolina
+Renault Duster 1.6 Dynamique,$56.000.000,2021,208.000,Blanco,Gasolina
+Renault Duster Oroch 2.0 Intens,$69.000.000,2020,72.000,Gris,Gasolina
+Renault Duster Dynamique Automática,$52.100.000,2017,64.000,Rojo,Gasolina
+Renault Duster 1.3 Intense Mt 4x4 Outsider,$80.000.000,2022,82.000,Blanco,Gasolina
+Renault Duster DYNAMIQUE 4X4 2000CC MT AA,$57.500.000,2021,44.000,Blanco,Gasolina
+Renault Duster DYNAMIQUE  2000CC AT AA,$55.000.000,2016,74.966,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$90.500.000,2023,11.100,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$92.000.000,2023,2.864,Gris,Gasolina
+Renault Duster Outsider Turbo 1.4,$73.900.000,2022,54.000,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$75.000.000,2022,60.000,Gris,Gasolina
+Renault Duster 1.3 Intens,$87.000.000,2024,560,Blanco,Gasolina
+Renault Duster Oroch 2.0cc Mt Aa 4x2,$67.500.000,2020,37.000,Plateado,Gasolina
+Renault Duster 2000cc Mt Aa,$60.000.000,2020,78.500,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$82.900.000,2023,15.500,Rojo,Gasolina
+Renault Duster Oroch 2.0 Dynamique 4x4,$69.900.000,2022,35.256,Blanco,Gasolina
+"Renault Duster Dynamique Aut 2,0 4x2",$54.800.000,2017,69.870,Gris,Gasolina
+Renault Duster Oroch 2.0cc Mt Aa 4x4,$82.500.000,2021,11.267,Blanco,Gasolina
+Renault Duster 1.6 Zen,$79.000.000,2024,39.000,Blanco,Gasolina
+Renault Duster 2.0 Intense,$54.000.000,2021,85.000,Blanco,Gasolina
+Renault Oroch Zen 1.3 Mecanica 4x4 Gasolina,$83.900.000,2023,19.090,Blanco,Gasolina
+Renault Duster 2.0cc Mt Aa 4x4,$64.000.000,2020,45.500,Blanco,Gasolina
+Renault Duster Expression,$50.000.000,2021,205.000,Blanco,Gasolina y gas
+Renault Duster 2.0 Dynamique 4x2,$68.500.000,2019,51.359,Gris,Gasolina
+Renault Duster Outsai Mt 4x4  1333 154 Placa Jwp195,$85.000.000,2022,38.000,Marrón,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$102.000.000,2024,30.000,Gris,Gasolina
+Renault Duster Oroch 2.0 Dynamique,$64.000.000,2020,43.000,Verde,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$43.000.000,2015,176.000,Blanco,Gasolina
+Renault Duster 1.3 Intense Cvt,$79.900.000,2023,30.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$64.000.000,2021,35.090,Gris,Gasolina
+Renault Duster DYNAMIQUE INTENS,$58.000.000,2019,90.000,Plateado,Gasolina
+Renault Duster 1.3 Intense Cvt,$72.000.000,2022,29.000,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$91.900.000,2023,53.200,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$56.500.000,2017,94.378,Blanco,Gasolina
+Renault Duster Tripadvisor Intens 4x4 2.0cc Mt Aa,$58.000.000,2020,98.000,Plateado,Gasolina
+Renault Duster Oroch Outsider 4x4 1300cc Mt Aa,$103.000.000,2023,22.434,Rojo,Gasolina
+Renault Duster ICONIC 1.3T CVT,$99.500.000,2024,0,Marrón,Gasolina
+Renault Duster  2000cc Mt Aa,$60.000.000,2020,64.000,Gris,Gasolina
+Renault Duster DYNAMIQUE 4X2 2000CC AT AA,$35.000.000,2014,110.000,Gris,Gasolina
+Renault Duster RENAULT DUSTER 1.3T 4X2 AT INTENS,$79.000.000,2023,22.002,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$44.000.000,2015,100.000,Negro,Gasolina
+Renault Duster 2.0cc 4x2 At Aa,$47.800.000,2015,87.000,Gris,Gasolina
+Renault Duster Zen,$81.450.000,2024,0,Gris,Gasolina
+Renault Duster Dynamique 2.0 4x4,$47.900.000,2016,71.000,Gris,Gasolina
+Renault Duster Zen  1600cc Mt Aa,$71.500.000,2022,26.200,Gris,Gasolina
+Renault Duster Oroch 2.0 Dynamique 4x4 Mecanica,$69.900.000,2022,45.000,Gris,Gasolina
+Renault Duster DYNAMIQUE 4X2 2000CC MT AA,$39.500.000,2013,100.900,Negro,Gasolina
+Renault Duster Iconic 4*4 M/t,$111.800.000,2025,0,Blanco,Gasolina
+Renault Duster DYNAMIQUE 4X2 2000CC AT AA,$42.900.000,2015,99.200,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$85.900.000,2023,27.400,Gris,Gasolina
+Renault 05 Duster Oroch INTENS,$72.900.000,2020,60.215,Color not found,Gasolina
+Renault Duster Oroch 4x4 2020,$64.500.000,2020,113.000,Gris,Gasolina
+Renault Duster Dynamique  2000cc At Aa,$39.000.000,2013,93.366,Gris,Gasolina
+Renault Duster 2021 4x4 2.0,$57.500.000,2021,40.000,Blanco,Gasolina
+Renaul Duster Oroch 2022,$77.000.000,2022,64.000,Blanco,Gasolina
+Renault Duster  4x2 1600cc Mt Aa,$54.999.000,2020,41.214,Gris,Gasolina
+Renault Duster Polar 2.0cc Mt Aa 4x4,$61.500.000,2019,54.000,Plateado,Gasolina
+Renault Duster  4x2 1600cc Mt Aa,$58.000.000,2020,226.000,Blanco,Gasolina y gas
+Renault Duster Dynamique 2.0cc AT AA 4X2,$53.000.000,2017,110.000,Gris,Gasolina
+Renault Duster Oroch 2.0,$79.000.000,2020,90.000,Blanco,Gasolina y gas
+Renault 05 Duster Oroch INTENS,$72.900.000,2020,54.998,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$78.900.000,2022,27.794,Plateado,Gasolina
+Renault Oroch 4x4 Outsider 1.3 Turbo 2025 Mq,$109.400.000,2025,0,Gris,Gasolina
+Renault Duster 1.3 Intens At Como Nueva En Garantía La Mejor,$77.990.000,2023,17.427,Rojo,Gasolina
+Renault Duster Turbo 4X4 2022 Outsider,$84.000.000,2022,59.000,Rojo,Gasolina
+Renault Duster 1.3 Iconic Aut,$83.900.000,2024,16.500,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$42.000.000,2013,217.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$38.600.000,2015,375.000,Blanco,Gasolina y gas
+Renault Duster Oroch Mt 1.3 Turbo 4*4 2023,$79.900.000,2023,31.000,Blanco,Gasolina
+Duster Iconic Servicio Publico 1300t 2025 Sa,$104.757.480,2025,0,Blanco,Gasolina
+Renault Duster 1.3 Intense Cvt,$82.900.000,2023,22.000,Rojo,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$64.700.000,2021,79.000,Plateado,Gasolina
+Renault Duster 1.6 Expression Mecánica,$51.990.000,2017,91.000,Marrón,Gasolina
+Renault Duster Oroch intens,$92.000.000,2023,34.568,Gris,Gasolina
+Renault Duster 4x4 Full Equipo,$59.500.000,2021,37.000,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$85.000.000,2023,5.570,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$98.900.000,2024,0,Gris,Gasolina
+Renault Duster 4x4 50 Aniversario Modelo 2021,$59.500.000,2021,37.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$51.000.000,2017,122.000,Blanco,Gasolina
+Renault Duster Oroch Outsider 4x4 2025 Mf,$108.300.000,2025,0,Gris,Gasolina
+Renault Duster 1.6 Zen,$59.000.000,2021,50.200,Gris,Gasolina
+Renault Duster Oroch 2.0 Intens,$109.600.000,2023,0,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$56.900.000,2020,80.000,Plateado,Gasolina
+Renault Duster 1.3 Intense Cvt,$83.800.000,2023,27.000,Gris,Gasolina
+Renault Duster Oroch 2.0 Dynamique,$56.500.000,2017,67.000,Negro,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$46.500.000,2015,88.000,Negro,Gasolina
+Renault Duster Oroch Automatica  2.0,$55.000.000,2019,160.000,Amarillo,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$48.990.000,2015,90.000,Gris,Gasolina
+Renault Duster 1.6 Dynamique,$51.500.000,2018,73.700,Plateado,Gasolina
+Renault Duster Oroch 2.0 Intens,$74.500.000,2022,24.154,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$41.000.000,2014,104.000,Blanco,Gasolina
+Renault Duster 1.6 Zen,$80.831.000,2024,0,Blanco,Gasolina
+Renault Duster Oroch 2.0 Dynamique,$68.000.000,2020,75.700,Blanco,Gasolina
+Renault Duster Oroch Mt 2.0 2018,$52.900.000,2018,77.000,Gris,Gasolina
+Renault Duster Mt 2.0 4*4 2019,$56.900.000,2019,72.000,Blanco,Gasolina
+Renault Duster Oroch Mt Turbo 1.3 4*4 2023,$78.900.000,2023,12.000,Blanco,Gasolina
+Renault Duster 1.6 Intense,$62.000.000,2021,90.000,Rojo,Gasolina
+Renault Duster Oroch Mt 4*4 2.0 2022,$73.900.000,2022,68.000,Plateado,Gasolina
+Renault Duster 1.3 Iconic Aut,$88.900.000,2024,20.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique,$58.900.000,2019,95.100,Gris,Gasolina
+Renault Duster Oroch Mt 2.0 4*4 2020,$69.900.000,2020,72.000,Gris,Gasolina
+Renault Duster Mt 2.0 4*4 2020,$58.900.000,2020,62.000,Plateado,Gasolina
+Renault Duster Oroch Mt 1.3 Turbo 2023,$78.900.000,2023,17.000,Blanco,Gasolina
+Renault Duster At 1.3 Turbo 2023,$78.900.000,2023,21.000,Gris,Gasolina
+Renault Duster At 1.3 Turbo 2023,$78.900.000,2023,17.000,Gris,Gasolina
+Renault Duster Mt 4*4 2.0 2020,$58.900.000,2020,52.000,Color not found,Gasolina
+Renault Duster 2.0 Intense 4x4,$60.900.000,2020,67.000,Gris,Gasolina
+Renault Duster 1.6 Zen Mt,$78.390.000,2024,0,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$58.000.000,2020,153.000,Blanco,Gasolina
+Renault Duster 1.6 Zen,$80.831.496,2023,0,Blanco,Gasolina
+Renault Duster Zen,$43.000.000,2024,0,Blanco,Gasolina
+Renault Duster Mt 1.3 Turbo 2023,$78.900.000,2023,31.000,Gris,Gasolina
+Renault Duster 1.6 Expression,$44.000.000,2016,97.400,Gris,Gasolina
+Renault Duster Dynamique Mt 2000cc 4x2,$38.900.000,2013,102.000,Negro,Gasolina
+Renault Duster Mt 4 X4 2.0 2020,$58.900.000,2020,89.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$37.490.000,2015,169.000,Gris,Gasolina
+Renault Duster 2.0 Tripadvisor Intens 4X4,$58.000.000,2019,98.700,Dorado,Gasolina
+Renault Duster Oroch Mt 2.0 2020,$64.900.000,2020,65.000,Blanco,Gasolina
+Renault Duster Mt 2.0 4*4 2020,$58.900.000,2020,75.000,Gris,Gasolina
+Renault Duster Oroch Mt 1.3turbo 4*4 2023,$78.900.000,2023,25.000,Blanco,Gasolina
+Renault Duster Oroch 1.3 Intens 4x4,$98.800.000,2024,5.400,Gris,Gasolina
+Renault Duster Oroch Mt Turbo 1.3 4x4,$79.900.000,2023,12.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$53.990.000,2017,118.000,Color not found,Gasolina
+Renault Duster 2024,$92.990.000,2024,25.442,Blanco,Gasolina
+Renault Duster 1.3 Turbo 2025 Ds,$109.800.000,2025,0,Plateado,Gasolina
+Renault Duster Oroch 1.3 Intens Aut,$106.500.000,2024,0,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$78.000.000,2023,19.000,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$37.900.000,2013,138.000,Color not found,Gasolina
+Renault Duster Oroch 2.0 Intens,$73.990.000,2022,33.300,Blanco,Gasolina
+Renault Duster Zen,$78.000.000,2024,0,Blanco,Gasolina
+Renault Duster Zen,$87.000.000,2024,0,Blanco,Gasolina
+Renault Duster Zen,$78.000.000,2024,0,Blanco,Gasolina
+Renault Duster Zen,$25.000.000,2023,0,Blanco,Gasolina
+Renault Duster 1.6 Intense,$82.000.000,2023,0,Blanco,Gasolina
+Renault Duster Zen,$78.694.000,2023,0,Blanco,Gasolina
+Renault Dusteroroch 46323,$72.900.000,2020,59.600,Rojo,Gasolina
+Renault Duster 2.0 Dynamique,$50.000.000,2015,95.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$66.900.000,2021,46.730,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$42.500.000,2015,97.000,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$71.900.000,2023,78.000,Plateado,Gasolina
+Renault Duster  4x2 1600cc Mt Aa,$68.000.000,2021,21.179,Rojo,Gasolina
+Renault Duster 2.0 Dynamique,$57.999.000,2019,30.000,Rojo,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$65.000.000,2020,85.000,Gris,Gasolina
+Renault Oroch 4x4 Servicio Público 2023,$97.000.000,2022,0,Blanco,Gasolina
+Duster  Turbo 1.3  Servicio Público. 2023,$93.000.000,2023,0,Blanco,Gasolina
+Renault Duster Oroch Dynamique,$73.000.000,2021,83.863,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$74.900.000,2022,22.000,Marrón,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$52.000.000,2016,34.335,Rojo,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$51.000.000,2017,77.500,Rojo,Gasolina
+Renault Duster 1.3 Intense Cvt,$85.000.000,2023,40.000,Gris,Gasolina
+Renault Duster Oroch INTENS,$87.900.000,2023,25.000,Blanco,Gasolina
+Renault Duster INTENS,$76.900.000,2022,47.279,Gris,Gasolina
+Renault Duster Dynamique,$58.900.000,2017,53.145,Verde,Gasolina
+Renault Duster INTENS,$80.900.000,2023,31.295,Gris,Gasolina
+Renault Duster Dynamique,$52.900.000,2015,54.100,Gris,Gasolina
+Renault Duster OROCH INTENS,$90.900.000,2023,28.698,Blanco,Gasolina
+Renault Duster INTENS,$79.900.000,2023,20.543,Marrón,Gasolina
+Renault Duster 1.6 Zen,$75.900.000,2023,25.592,Gris,Gasolina
+Renault Duster OROCH INTENS,$98.900.000,2023,15.400,Blanco,Gasolina
+Renault Duster Oroch,$98.900.000,2023,12.814,Gris,Gasolina
+Renault Duster INTENS,$79.900.000,2023,20.605,Blanco,Gasolina
+Renault Duster Oroch Cargo,$83.900.000,2023,10.818,Blanco,Gasolina
+Renault Duster OUTSIDER,$88.900.000,2022,34.939,Rojo,Gasolina
+Renault Duster Dynamique,$54.900.000,2017,80.048,Gris,Gasolina
+Renault Duster INTENS,$68.900.000,2021,37.410,Blanco,Gasolina
+Renault Duster 1.6 Zen,$71.900.000,2023,30.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$54.900.000,2018,96.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$56.900.000,2020,77.000,Color not found,Gasolina
+Renault Koleos 2.5 Dynamique 4x4,$44.900.000,2014,96.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$68.000.000,2021,72.000,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$80.500.000,2022,29.490,Marrón,Gasolina
+Renault Duster Dynamique 2.000cc A/T C/A 2014,$42.900.000,2014,80.000,Gris,Gasolina
+Renault Duster 1.3 Iconic 4X4,$94.000.000,2024,4.500,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$57.900.000,2018,59.000,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$37.000.000,2013,130.000,Negro,Gasolina
+Renault Duster Dinamique 4x4 Mc Modelo 2019,$54.000.000,2019,177.490,Blanco,Gasolina
+Renault Duster Dynamique,$62.000.000,2020,144.000,Blanco,Gasolina
+Renault Duster INTENS,$87.900.000,2024,9.943,Gris,Gasolina
+Renault Duster DYNAMIQUE 4X4 50 ANIVERSARIO,$59.800.000,2020,48.000,Gris,Gasolina
+Renault Duster 1.6 Zen,$61.000.000,2021,106.600,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$52.800.000,2019,85.500,Gris,Gasolina
+Renault Duster Oroch 2.0 Intens,$82.000.000,2022,22.000,Plateado,Gasolina
+Renault Duster 1.6 Zen,$74.490.000,2023,35.400,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$94.000.000,2024,7.000,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$79.990.000,2023,17.000,Plateado,Gasolina
+Renault Duster 2.0 Expression,$57.000.000,2020,42.500,Color not found,Gasolina
+Renault Duster 1.6 Intense Mt,$79.900.000,2024,27.000,Plateado,Gasolina
+Renault Duster 1.6 Zen Mt,$82.500.000,2024,57,Blanco,Gasolina
+Renault Duster 1.6 Zen Mt,$79.900.000,2024,4.546,Blanco,Gasolina
+Renault Duster 1.6 Intense Mt,$73.990.000,2022,44.500,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$44.900.000,2016,84.000,Rojo,Gasolina
+Renault Duster 1.6 Intense Mt,$80.990.000,2024,16.180,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$61.000.000,2017,76.871,Plateado,Gasolina
+Renault Duster 1.6 Zen,$77.990.000,2023,10.600,Blanco,Gasolina y gas
+Renault Duster 1.6 Zen Mt,$75.000.000,2023,27.900,Blanco,Gasolina
+Renault Duster 1.6 Zen,$70.000.000,2023,28.900,Gris,Gasolina
+Renault Duster Oroch 1.3 Outsider,$92.000.000,2023,27.800,Color not found,Gasolina
+Renault Duster INTENS,$82.960.000,2022,46.752,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$53.000.000,2017,82.000,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$42.000.000,2014,149.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$59.500.000,2020,58.000,Blanco,Gasolina
+Renault Duster Oroch 2.0 Intens,$59.900.000,2021,55.000,Rojo,Gasolina
+Renault Duster 1.6 Dynamique,$45.900.000,2018,200.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$63.000.000,2020,43.500,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$77.900.000,2022,95.974,Color not found,Gasolina
+Renault Duster INTENS,$75.900.000,2022,32.457,Color not found,Gasolina
+Renault Duster 1.6 Zen Mt,$78.000.000,2024,44.782,Blanco,Gasolina
+Renault Duster 1.6 Dynamique,$51.500.000,2018,83.500,Gris,Gasolina
+Renault Duster 2.0 Dynamique,$49.800.000,2018,53.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique,$41.000.000,2014,132.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$50.500.000,2016,86.000,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$78.000.000,2022,38.000,Gris,Gasolina
+Renault duster dinamique 2.0 Automática,$42.000.000,2014,126.052,Gris,Gasolina
+Renault Duster INTENS,$77.900.000,2023,45.822,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$90.000.000,2023,10.600,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$64.900.000,2020,31.000,Plateado,Gasolina
+Renault Duster Zen,$70.900.000,2024,9.835,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$53.900.000,2018,112.000,Gris,Gasolina
+Renault Duster 1.6 Zen,$64.000.000,2022,134.000,Color not found,Gasolina
+Renault Oroch Duster Oroch,$101.000.000,2023,3.500,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$59.000.000,2020,84.400,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$55.000.000,2017,44.500,Blanco,Gasolina
+Renault Duster Oroch 2.0 Expression,$66.900.000,2018,44.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$44.900.000,2016,106.600,Gris,Gasolina
+Renault Duster 2.0 Expression,$38.500.000,2016,180.800,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$40.000.000,2013,127.000,Verde,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$88.000.000,2022,41.000,Dorado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.500.000,2014,129.400,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$55.500.000,2020,100.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.900.000,2014,61.600,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$52.500.000,2020,187.000,Blanco,Gasolina
+Renault Duster Oroch Outsider 1.3,$89.000.000,2023,9.000,Color not found,Gasolina
+Renault Duster Tripadvisor Advance 2.0 4x4 Color Perla,$64.500.000,2018,73.480,Color not found,Gasolina
+Renault Duster 1.6 Zen,$68.000.000,2023,45.666,Plateado,Gasolina
+Renault Duster Oroch 2.0 Intens,$79.000.000,2022,70.880,Gris,Gasolina
+Renault Duster 2.0 Polar Mt 4X4,$70.000.000,2019,91.699,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$42.000.000,2016,144.000,Gris,Gasolina
+Renault Duster 1.6 Zen,$63.990.000,2021,17.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique,$56.500.000,2017,38.000,Plateado,Gasolina
+Renault Duster 1.3 Intense Cvt,$78.200.000,2022,26.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$50.000.000,2015,103.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$43.800.000,2013,134.000,Plateado,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$94.900.000,2024,18.000,Plateado,Gasolina
+Renault Duster TripAdvisor,$52.000.000,2019,60.773,Plateado,Gasolina
+Renault Duster 1.3 Intense Cvt,$84.900.000,2023,17.500,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.000.000,2014,104.000,Negro,Gasolina y gas
+Renault Duster 1.3 Iconic Aut,$83.500.000,2024,33.500,Blanco,Gasolina
+"Renault Duster New Intens Sec 1,3 4x2",$83.800.000,2023,35.217,Gris,Gasolina
+"Renault Duster ZEN MEC 1,6 4X2",$69.800.000,2022,34.403,Gris,Gasolina
+Renault Duster 1.6 Zen Mt,$67.990.000,2022,37.000,Blanco,Gasolina
+Renault Duster 1.6 Intense Mt,$79.990.000,2023,18.000,Color not found,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$94.990.000,2024,3.085,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$76.900.000,2023,48.321,Rojo,Gasolina
+Renault Duster Zen,$79.400.000,2024,0,Gris,Gasolina
+Renault Duster ZEN 1.6 MT,$88.400.000,2024,0,Plateado,Gasolina
+Renault Duster Oroch OUTSIDER,$109.900.000,2024,0,Rojo,Gasolina
+Renault Duster Intens Edición 2020 2.0,$62.900.000,2020,68.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$58.700.000,2018,59.350,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$62.500.000,2021,70.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$51.900.000,2017,90.000,Verde,Gasolina
+Renault Duster Intens,$54.900.000,2020,131.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 2017 At,$54.900.000,2017,45.800,Gris,Gasolina
+Renault Duster Oroch 2.0 Expression,$60.900.000,2021,61.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$35.900.000,2013,109.000,Marrón,Gasolina
+Renault Duster Oroch Outsider 1.3 Turbo,$98.000.000,2023,14.368,Gris,Gasolina
+Renault Duster 1.6 Zen Mt,$81.390.000,2024,0,Gris,Gasolina
+Renault Duster 1.6 Intens Mt,$72.900.000,2023,22.000,Gris,Gasolina
+Renault Duster DYNAMIQUE DAKAR,$52.000.000,2018,107.000,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$40.900.000,2014,132.000,Gris,Gasolina
+Renault Duster Oroch 2.0 Intens At 4x2 Mod 2020,$79.900.000,2020,28.032,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$51.800.000,2018,74.000,Plateado,Gasolina
+Renault Duster 1.3 Iconic Aut,$91.900.000,2024,12.800,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$91.900.000,2022,17.000,Gris,Gasolina
+Renault Duster 1.6 Expression,$54.900.000,2021,205.000,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$81.500.000,2023,27.426,Plateado,Gasolina
+Renault Duster 1.3 Intense Cvt,$81.500.000,2022,39.000,Rojo,Gasolina
+Renault Duster 1.6 Zen,$79.900.000,2022,29.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$56.900.000,2020,64.100,Rojo,Gasolina
+Renault Duster Dynamique At,$45.000.000,2015,91.017,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$59.500.000,2018,40.100,Gris,Gasolina
+Renault Duster Intens At 2.0 2016,$42.900.000,2016,127.000,Rojo,Gasolina
+Renault Duster Iconic 4x4,$112.000.000,2025,0,Blanco,Gasolina
+Renault Duster 1.6 Zen Mt,$81.000.000,2024,666,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$42.500.000,2013,357.000,Blanco,Gasolina y gas
+Renault Duster Intense 2021,$61.500.000,2021,54.000,Blanco,Gasolina
+Renault Duster 1.6 Dynamique,$59.900.000,2021,52.700,Blanco,Gasolina
+Renault Duster DYNAMIQUE DAKAR 2.0 AUT 5P,$55.700.000,2017,55.058,Dorado,Gasolina
+Renault Duster 2.0 Dynamique 2013,$37.900.000,2013,117.700,Blanco,Gasolina
+Renault Duster 1.3 Iconic Aut,$89.900.000,2024,9.990,Plateado,Gasolina
+Renault Duster Oroch 2.0 Expression,$70.900.000,2020,72.972,Gris,Gasolina
+Renault Duster 2.0 Dynamique,$65.000.000,2019,44.480,Plateado,Gasolina
+Renault Duster Dynamique,$46.000.000,2015,65.000,Plateado,Gasolina
+Renault Duster Zen,$76.000.000,2022,82.500,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$79.990.000,2022,39.000,Blanco,Gasolina
+Renault Duster 1.3 Instens Outsider,$77.300.000,2022,39.100,Blanco,Gasolina
+Renault Duster 1.6 Intense Mt,$66.900.000,2023,36.000,Rojo,Gasolina
+Renault Duster Zen 4x2 1.6 2020,$55.000.000,2020,65.300,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$61.000.000,2018,41.619,Gris,Gasolina
+Renault Duster INTENS TURBO 1.3 AUT 5P,$77.100.000,2022,38.826,Gris,Gasolina
+Renault Duster Oroch 4x2 At Mod 2023,$94.900.000,2023,47.890,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.900.000,2014,61.000,Gris,Gasolina
+Renault Duster 1.6 Zen Mt,$79.900.000,2024,7.500,Gris,Gasolina
+Renault Duster 1.6 Zen Mt,$69.000.000,2023,35.000,Gris,Gasolina
+Renault Duster Intens -  2.0 Mecanica 2019,$57.900.000,2019,57.000,Plateado,Gasolina
+Renault Duster 2.0 Expression,$45.900.000,2016,98.178,Blanco,Gasolina
+Renault Duster Dynamique,$42.000.000,2015,106.000,Rojo,Gasolina
+Renault Duster 1.6 Zen,$78.990.000,2024,0,Gris,Gasolina
+Renault Duster Intens MT 4x2 1.6,$90.900.000,2024,0,Gris,Gasolina
+Renault Duster Oroch 1.3 Cargo 4X4,$79.900.000,2024,5.000,Blanco,Gasolina
+Renault Duster Intens 2.0 4x4 5p 2021 Jqr056,$68.300.000,2021,49.108,Blanco,Gasolina
+Renault Duster 1.6 Expression,$55.900.000,2021,47.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$59.900.000,2020,67.100,Gris,Gasolina
+Renault Duster Oroch Cargo Turbo Dc 1.3 4x4 5p 2023 Lqv541,$78.000.000,2023,23.016,Blanco,Gasolina
+Renault Duster 1.3 Intense Cvt,$66.900.000,2022,42.200,Gris,Gasolina
+Renault Duster Intens 2.0 Aut 2021 Ghv427,$68.300.000,2021,43.349,Gris,Gasolina
+Renault Duster 1.6 Intens Mecanico 4x2,$74.900.000,2022,44.212,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$59.000.000,2020,85.351,Plateado,Gasolina
+Renault Duster 2.0 Expression,$62.000.000,2020,49.000,Gris,Gasolina
+Renault Duster 1.6 Dynamique Mecánica,$53.800.000,2020,45.000,Blanco,Gasolina
+Renault Duster DYNAMIQUE 4X4 MEC 2.0L,$75.900.000,2021,52.598,Blanco,Gasolina
+Renault Duster 1.3 Iconic 4X4,$111.800.000,2024,0,Blanco,Gasolina
+Renault Duster Intens 1.3,$87.000.000,2023,21.600,Color not found,Gasolina
+Renault Duster 1.3,$70.000.000,2022,22.273,Gris,Gasolina
+Renault Duster 1.3 TURBO INTENS 4X4 MT,$87.900.000,2022,18.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$45.900.000,2013,93.800,Gris,Gasolina
+Renault Duster 2.0 Dynamique,$49.900.000,2017,61.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2 Mecanica,$62.900.000,2019,75.833,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.500.000,2016,121.350,Rojo,Gasolina
+Renault Duster ICONIC 1.3 TURBO AT,$91.200.000,2024,8.222,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.900.000,2014,84.400,Gris,Gasolina
+Renault Duster dynamique 2.0,$50.000.000,2016,57.400,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$39.000.000,2015,126.000,Rojo,Gasolina
+Renault Duster Dynamique 4X4 Mt,$53.999.000,2019,135.000,Blanco,Gasolina
+Renault Duster ZEN 1.6 2022,$69.900.000,2022,22.400,Dorado,Gasolina
+Renault Duster 1.6 Expression Mecánica,$35.999.000,2014,240.000,Gris,Gasolina
+Renault Duster Zen Mt 2019,$52.999.999,2019,45.000,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$75.900.000,2022,45.000,Blanco,Gasolina
+Renault Duster 1.6 Dynamique,$60.000.000,2019,89.144,Gris,Gasolina
+Renault Duster Dynamique,$64.900.000,2020,36.000,Blanco,Gasolina
+Renault Duster Tce 1.3 2023,$97.000.000,2023,10.800,Rojo,Gasolina
+Renault Duster 1.3 Intense Cvt,$85.000.000,2023,16.500,Marrón,Gasolina
+Renault Duster Iconic 4x4 Mt 2025,$111.950.000,2025,0,Gris,Gasolina
+Renault Duster 2.0 Expression,$53.000.000,2019,55.000,Gris,Gasolina
+Renault Duster Intens 1.3,$83.000.000,2023,21.000,Color not found,Gasolina
+Renault Duster 4x4 Mecánica 2020,$63.000.000,2020,51.605,Gris,Gasolina y gas
+Renault Duster 2.0 Dynamique 4x4,$69.000.000,2020,61.251,Blanco,Gasolina
+Renault Duster 1.3 Intense Cvt,$93.500.000,2023,3.011,Gris,Gasolina
+Renault Duster Zen,$80.000.000,2024,0,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$50.000.000,2017,138.472,Negro,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$44.990.000,2013,46.435,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$74.000.000,2022,50.000,Plateado,Gasolina
+Renault Duster 1.6 Expression Mecánica,$43.900.000,2016,105.000,Gris,Gasolina
+Renault Duster Dynamique 2.0 4x2,$40.500.000,2014,85.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$45.500.000,2017,110.000,Gris,Gasolina
+Renault Duster 1.6 Dynamique Mecánica,$54.000.000,2020,85.000,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$38.800.000,2014,122.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$70.000.000,2021,60.154,Gris,Gasolina
+Renault Duster 2.0 Dynamique/Intens At 4x2,$61.000.000,2020,51.313,Gris,Gasolina
+Renault Duster Zen,$80.931.496,2025,0,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$39.900.000,2014,137.000,Color not found,Gasolina
+Renault Duster DUSTER DYNAMIQUE  4X2 DISCOVERY,$47.500.000,2014,91.460,Gris,Gasolina
+Renault Duster Iconic 2025,$98.300.000,2025,10,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$78.000.000,2023,34.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$71.750.000,2021,34.500,Rojo,Gasolina
+Renault Duster 1.6 Intense,$79.500.000,2023,20.057,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$65.500.000,2019,48.829,Gris,Gasolina
+Renault Intens 4x4 Outsider,$108.300.000,2025,0,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$44.900.000,2015,103.235,Rojo,Gasolina
+Renault Duster Oroch Dynamique 2.0 Mt 4x4 Modelo 2021,$76.000.000,2021,118.548,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$59.500.000,2021,139.000,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$53.000.000,2019,77.000,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$38.500.000,2013,129.523,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$47.500.000,2018,90.563,Rojo,Gasolina
+Renault Duster 1.6 Expression,$68.000.000,2022,44.000,Plateado,Gasolina
+Oroch Intens 4x4 Outsider 2025 -llévala Con Excelente Precio,$109.900.000,2024,0,Gris,Gasolina
+Renault Duster Oroch 2.0 Dynamique,$73.900.000,2022,35.000,Blanco,Gasolina
+Renault Duster 1.6,$63.000.000,2020,14.087,Rojo,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$103.550.000,2024,0,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$46.000.000,2015,96.000,Negro,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$58.900.000,2020,65.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$60.900.000,2021,65.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$47.900.000,2015,95.000,Plateado,Gasolina
+Renault Duster Oroch 2.0 Intens,$102.500.000,2023,20.180,Blanco,Gasolina
+Reanult Oroch Outsider 4x4 2025,$108.000.000,2025,0,Gris,Gasolina
+Renault Duster EXPRESSION 4X2 1600CC MT AA,$40.500.000,2014,101.554,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$45.000.000,2016,152.000,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$93.900.000,2024,12.400,Marrón,Gasolina
+Renault Duster 1.6 Expression Mecánica,$44.900.000,2016,139.400,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$37.900.000,2015,149.000,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$41.800.000,2014,143.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$43.900.000,2015,97.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique,$65.000.000,2019,80.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$39.900.000,2013,99.000,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$79.900.000,2023,26.000,Gris,Gasolina
+Renault Duster DYNAMIQUE DAKAR,$56.000.000,2017,68.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$38.900.000,2014,107.000,Plateado,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$87.500.000,2024,33.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$43.900.000,2013,122.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$53.900.000,2017,82.000,Blanco,Gasolina
+Renault Duster 1.4 Turbo Aut,$67.500.000,2022,79.000,Dorado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$71.000.000,2021,64.000,Rojo,Gasolina
+Renault Duster DYNAMIQUE MT 1.6CC 4X2,$55.900.000,2020,50.500,Plateado,Gasolina
+Renault Duster Oroch 2.0 Intens,$65.900.000,2020,67.000,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4 Outsider,$82.900.000,2022,61.700,Color not found,Gasolina
+Renault Duster Oroch 2.0 Intens,$77.900.000,2020,71.673,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$57.900.000,2018,90.043,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$69.900.000,2018,16.000,Plateado,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$77.900.000,2023,36.000,Plateado,Gasolina
+Renault Duster 1.6 Expression Mecánica,$38.400.000,2013,161.000,Verde,Gasolina
+Renault Oroch,$77.900.000,2023,13.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$61.900.000,2020,61.000,Gris,Gasolina
+Renault Duster Oroch 2.0 Intens,$85.800.000,2023,30.000,Color not found,Gasolina
+Renault Duster Zen,$79.900.000,2022,Publicado,Gris,Gasolina
+Renault Duster 2.0 Expression,$43.000.000,2016,83.300,Gris,Gasolina
+Renault Duster (financiamiento) Unico Dueño,$48.900.000,2021,38.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$43.990.000,2015,121.105,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$43.500.000,2016,110.000,Gris,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$80.900.000,2023,26.451,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4 Outsider,$76.500.000,2022,29.000,Color not found,Gasolina
+Renault Duster Oroch 1.3cc 4x4,$93.500.000,2023,34.000,Color not found,Gasolina
+Renault Duster Oroch 1.3l Turbo 4x4 Mt,$93.500.000,2023,34.000,Color not found,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$91.000.000,2024,4.400,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$94.000.000,2024,7.100,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$45.000.000,2013,86.000,Gris,Gasolina
+Renault Duster Oroch 2.0 Dynamique 4x4,$65.500.000,2019,62.000,Blanco,Gasolina
+Renault Duster DYNAMIQUE MT 2.0CC 4X2,$39.900.000,2015,120.000,Blanco,Gasolina
+Renault Duster 1.6 Zen Mt,$80.990.000,2024,1.000,Blanco,Gasolina
+Renault Duster Oroch 2.0 Dynamique,$73.500.000,2020,54.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$41.990.000,2014,114.000,Blanco,Gasolina
+Renault Duster Oroch 2.0 Dynamique Mt,$54.500.000,2017,72.000,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$91.900.000,2024,2.500,Plateado,Gasolina
+Renault Duster 1.6 Expression Mecánica,$39.300.000,2013,160.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$55.000.000,2017,90.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$38.900.000,2013,97.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique,$49.800.000,2017,62.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2 Aut,$38.900.000,2014,117.400,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$43.900.000,2014,104.000,Negro,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$64.900.000,2021,40.200,Gris,Gasolina
+Renault Duster 1.6 Dynamique,$56.900.000,2021,33.500,Color not found,Gasolina
+Renault Duster 2.0 dinamique A/T,$56.900.000,2018,73.225,Plateado,Gasolina
+Renault Duster 1.3 Intense Cvt,$84.900.000,2023,15.500,Color not found,Gasolina
+Renault Duster 4x2 At 2021,$65.000.000,2021,53.170,Gris,Gasolina y gas
+Renault Duster 1.3 Iconic 4X4,$94.000.000,2024,8.600,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$50.800.000,2016,78.000,Plateado,Gasolina
+Renault Duster 1.3 T Iconic Mt 4X4,$80.900.000,2023,30.042,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$60.000.000,2017,51.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$38.900.000,2013,143.000,Marrón,Gasolina
+Renault Duster 1.3 Iconic 4X4,$108.250.000,2024,0,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$59.500.000,2019,40.000,Plateado,Gasolina
+Renault Duster Oroch 2.0 Intens,$97.000.000,2023,12.272,Plateado,Gasolina
+Renault Duster Dynam/intens Con Gas At,$60.900.000,2019,20.660,Gris,Gasolina y gas
+Renault Duster 2.0 Dynamique,$51.900.000,2018,74.000,Negro,Gasolina
+Renault Duster 1.6 Intense Mt,$66.900.000,2022,95.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$38.500.000,2013,121.000,Color not found,Gasolina
+Renault Duster 2.0 DYNAMIQUE/ INTENS,$55.900.000,2018,94.222,Plateado,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$78.900.000,2023,48.320,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$63.000.000,2020,90.000,Blanco,Gasolina y gas
+Renault Duster 2.0 Dynamique 4x4,$59.900.000,2019,65.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$48.000.000,2013,48.000,Color not found,Gasolina
+Renault Duster 1.6 Zen,$60.000.000,2021,66.352,Rojo,Gasolina
+"Renault Duster 2.0,DYNAMIQUE ,AUTOMATICA",$33.900.000,2013,114.000,Negro,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$55.500.000,2021,54.000,Blanco,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$75.900.000,2022,57.000,Marrón,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$54.800.000,2018,54.000,Plateado,Gasolina
+Renault Duster Intens Aut,$93.900.000,2024,3.700,Gris,Gasolina
+Renault Duster 1.6 Zen,$67.300.000,2021,68.000,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$71.000.000,2022,53.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$62.900.000,2020,45.000,Plateado,Gasolina
+Renault Duster Dynamique 4x4,$56.990.000,2019,74.346,Dorado,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$40.900.000,2015,101.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$32.900.000,2013,116.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$61.800.000,2020,84.000,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$78.800.000,2023,15.000,Color not found,Gasolina
+Renault Duster 1.6 Zen,$68.500.000,2023,24.000,Gris,Gasolina
+Renault Duster Iconic 1.3 4x4 Mt,$109.800.000,2025,0,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$39.500.000,2013,154.000,Color not found,Gasolina
+Renault Duster 2.0 Expression,$50.000.000,2016,89.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$36.500.000,2013,130.000,Gris,Gasolina
+Renault Duster Dynamique At,$50.900.000,2016,74.615,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$43.000.000,2014,105.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$63.990.000,2019,69.586,Gris,Gasolina
+Renault Duster Oroch 2.0 Intens,$79.800.000,2022,52.000,Rojo,Gasolina
+Renault Duster Dynamique intense 4x4,$55.300.000,2019,78.000,Plateado,Gasolina
+Renault Duster Oroch Intens Mecanico 4x2 Gasolina,$96.000.000,2023,22.132,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$77.000.000,2022,31.100,Gris,Gasolina
+Renault Duster 2.0 Tripadvisor Intens 4X2,$54.000.000,2019,102.000,Rojo,Gasolina
+Renault Duster 1.6 Expression Mecánica,$41.500.000,2014,133.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$45.500.000,2017,109.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique,$59.800.000,2018,90.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$59.500.000,2021,33.200,Color not found,Gasolina
+Renault Duster INTENS,$95.500.000,2023,6.619,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$79.650.000,2022,45.608,Gris,Gasolina
+Renault Duster 2.0 Dynamique,$63.900.000,2018,110.000,Rojo,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$68.000.000,2021,78.000,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$72.900.000,2022,34.204,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$49.900.000,2015,97.000,Rojo,Gasolina
+Renault Duster 1.3 Intense Mt 4x4 Outsider,$74.900.000,2022,20.589,Marrón,Gasolina
+Renault Duster 2.0 Dynamique Aut,$49.000.000,2015,65.000,Plateado,Gasolina
+Renault Duster Oroch 2.0 Intens,$77.900.000,2022,33.700,Color not found,Gasolina
+Renault Duster 1.6 Expression Mecánica,$54.800.000,2020,58.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$40.900.000,2014,126.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$68.800.000,2019,63.800,Color not found,Gasolina
+Renault Duster 2.0 Dynamique Plus,$45.000.000,2015,123.000,Gris,Gasolina
+Renault Duster 1.6 Expression,$33.200.000,2016,226.295,Blanco,Gasolina y gas
+Renault Duster Oroch 2.0 Expression,$62.500.000,2021,65.600,Rojo,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$39.990.000,2013,108.012,Plateado,Gasolina
+Renault Duster INTENS  1300T,$79.000.000,2023,26.588,Gris,Gasolina
+Renault Duster INTENS AT,$84.000.000,2022,24.154,Gris,Gasolina
+Renault Duster 1.6 Zen Mt,$65.900.000,2022,33.800,Plateado,Gasolina
+Renault Duster 1.6 Zen,$65.900.000,2023,72.200,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$37.900.000,2013,94.000,Gris,Gasolina
+Renault Duster 1.6 Dynamique,$72.000.000,2022,14.933,Plateado,Gasolina
+Renault Duster 1.3 Intense Mt 4x4 Outsider,$72.800.000,2022,75.000,Plateado,Gasolina
+Renault Duster 2.0 Polar Mt 4X2,$57.890.000,2019,49.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$55.000.000,2017,19.551,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$38.900.000,2015,106.000,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$34.900.000,2013,131.000,Plateado,Gasolina
+Renault Duster 2.0 Polar Mt 4X4,$60.800.000,2019,63.053,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$52.000.000,2018,43.245,Gris,Gasolina
+Renault Duster 1.6 Zen,$56.999.999,2021,47.000,Gris,Gasolina
+Renault Duster DYNAMIQUE TP 2.0CC 4X2,$58.900.000,2020,36.000,Plateado,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$58.000.000,2020,88.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$61.800.000,2019,70.324,Gris,Gasolina
+Renault Duster 1.6 Expression,$67.000.000,2022,75.742,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$54.990.000,2018,92.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$44.900.000,2015,198.000,Color not found,Gasolina
+Renault Duster 1.3 Zen Mt,$72.000.000,2022,48.000,Plateado,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$72.490.000,2022,42.000,Blanco,Gasolina
+Renault Duster 1.3 Zen Mt,$68.000.000,2022,56.285,Gris,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$76.900.000,2022,19.645,Color not found,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$72.900.000,2022,34.516,Rojo,Gasolina
+Renault Duster 2.0 Dynamique,$66.800.000,2020,67.150,Blanco,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$90.000.000,2024,10.000,Gris,Gasolina
+Renault Duster Oroch 1.3 Intens Aut,$89.900.000,2024,18.311,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$82.500.000,2023,23.000,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$43.500.000,2015,81.000,Blanco,Gasolina
+Renault Duster Oroch Mt 2021,$68.000.000,2021,58.000,Gris,Gasolina
+Renault Duster 1.6 Zen,$58.999.999,2021,47.000,Gris,Gasolina
+Renault Duster 1.6 Expression Mecánica,$45.800.000,2015,118.000,Color not found,Gasolina
+Renault Duster 1.3 Intense Cvt,$80.000.000,2022,24.000,Color not found,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$59.900.000,2019,58.008,Plateado,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$89.900.000,2023,16.000,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$77.800.000,2022,7.000,Gris,Gasolina
+Renault,$63.000.000,2021,66.000,Gris,Gasolina
+Renault Duster 1.3 Intense Cvt,$81.900.000,2023,14.000,Blanco,Gasolina
+Renault Duster 2.0 Dynamique 4x4,$54.900.000,2019,110.000,Color not found,Gasolina
+Renault Duster 1.6 Dynamique,$54.000.000,2019,128.200,Blanco,Gasolina
+Renault Duster Mt 4x4 2.0 2013,$43.500.000,2013,145.415,Gris,Gasolina
+Renault Duster Duster 1.6 Expression Mecánica,$45.500.000,2016,104.000,Blanco,Gasolina
+Renault Duster 1.6 Expression Mecánica,$58.900.000,2019,37.000,Color not found,Gasolina
+Renault Duster 2.0 dynamique Aut,$54.900.000,2019,115.592,Color not found,Gasolina
+Renault Duster 1.3 Intense Mt 4x4,$94.800.000,2023,22.800,Color not found,Gasolina
+Renault Duster 1.3 T Iconic Cvt,$88.000.000,2023,8.500,Gris,Gasolina
+Renault Duster 2.0 Dynamique 4x2,$38.900.000,2013,98.000,Negro,Gasolina
+Renault Oroch,$89.900.000,2023,13.544,Gris,Gasolina
